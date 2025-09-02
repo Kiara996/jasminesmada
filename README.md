@@ -1,6 +1,6 @@
 # jasminesmada
 
-Welcome to **jasminesmada**, the official website for the 70th Anniversary of [Your School Name]!  
+Welcome to **jasminesmada**, the official website for the 70th Anniversary of SMAN 2 Madiun!  
 This project was created by the student organization to celebrate this special milestone, providing a centralized platform for all anniversary activities and information.
 
 ---
