@@ -89,8 +89,6 @@ Contributions are welcome!
 4. Push to the branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
-
 ---
 
 ## License
